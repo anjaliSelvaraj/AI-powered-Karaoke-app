@@ -1,0 +1,10 @@
+# For lyrics transcription
+openai-whisper
+
+# Demucs and dependencies for music source separation
+demucs
+torch
+torchaudio
+numpy
+soundfile
+ffmpeg-python
